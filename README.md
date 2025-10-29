@@ -16,15 +16,12 @@ This Java project implements multiple sorting algorithms, including Bubble Sort,
 1. Clone the repository.
    ```bash
    git clone https://github.com/VICTOR00223/Sorting-Algorithms.git
-
-
 2. Navigate to the project folder
    ```bash
    cd Sorting-Algorithms
 3. Compile the Java files:
    ```bash
    javac Main.java Sort.java
-   
 4. Run the program
    ```bash
    java Main 
